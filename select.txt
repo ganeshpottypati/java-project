@@ -1,0 +1,4 @@
+select * from DEPT;
+select * from EMP;
+select * from bonus;
+select * from salgrade;

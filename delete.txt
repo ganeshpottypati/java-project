@@ -1,0 +1,4 @@
+delete from dept where DEPTNO=1;
+delete from emp where empno=1;
+delete from bonus where ename=1;
+delete from salgrade where grade=1;
